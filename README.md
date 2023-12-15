@@ -21,8 +21,10 @@ Beschreibung: Uhrzeit ist optional ab wann, sonst gilt jetzt, und Datum ist wenn
 
 Token ist nicht relevant
 
+Hinweis: Es ist ein API Key notwendig, Infos dazu unter https://www.hvv.de/de/fahrplaene/abruf-fahrplaninfos/datenabruf
+
 ## VRR Auskunft
-Für HVV Auskunft wäre als Beispiel ganze so:
+Für VRR Auskunft wäre als Beispiel ganze so:
 ![grafik](https://github.com/Danielbaerchen/Synology-Chat-Erweiterungen/assets/153910357/d1979204-225e-4c79-a86d-6f3fb0743f72)
 
 Name: VRR Fahrverbindung
