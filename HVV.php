@@ -1,4 +1,5 @@
 <?php
+#Infos zum API Key anfordern per Email auf https://www.hvv.de/de/fahrplaene/abruf-fahrplaninfos/datenabruf
 $API_User = 'Hier Benutzer eintragen';
 $API_Passwort = 'Hier API Code eintragen';
 $API_URL = 'https://gti.geofox.de/gti/public/getRoute';
